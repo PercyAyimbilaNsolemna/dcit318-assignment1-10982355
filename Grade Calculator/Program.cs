@@ -8,7 +8,7 @@ namespace Csharp
             Console.Write("Please enter your score: ");
 
             // Read the input grade from the user
-            int grade = Convert.ToInt32(Console.ReadLine());
+            double grade = Convert.ToDouble(Console.ReadLine());
 
             // Validate the input grade
         if (grade < 0 || grade > 100)
