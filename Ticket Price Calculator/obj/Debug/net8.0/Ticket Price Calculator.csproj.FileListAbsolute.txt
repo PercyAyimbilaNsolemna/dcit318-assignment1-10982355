@@ -1,0 +1,15 @@
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator.deps.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator.runtimeconfig.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/bin/Debug/net8.0/Ticket Price Calculator.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.AssemblyInfoInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.AssemblyInfo.cs
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.csproj.CoreCompileInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.sourcelink.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/refint/Ticket Price Calculator.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/Ticket Price Calculator.genruntimeconfig.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Ticket Price Calculator/obj/Debug/net8.0/ref/Ticket Price Calculator.dll
