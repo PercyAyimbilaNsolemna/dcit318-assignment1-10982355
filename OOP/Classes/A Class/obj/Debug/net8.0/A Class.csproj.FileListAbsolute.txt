@@ -1,0 +1,15 @@
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/A Class.GeneratedMSBuildEditorConfig.editorconfig
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/A Class.AssemblyInfoInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/A Class.AssemblyInfo.cs
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/A Class.csproj.CoreCompileInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/A Class.sourcelink.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/bin/Debug/net8.0/A Class
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/bin/Debug/net8.0/A Class.deps.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/bin/Debug/net8.0/A Class.runtimeconfig.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/bin/Debug/net8.0/A Class.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/bin/Debug/net8.0/A Class.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/A Class.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/refint/A Class.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/A Class.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/A Class.genruntimeconfig.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/A Class/obj/Debug/net8.0/ref/A Class.dll
