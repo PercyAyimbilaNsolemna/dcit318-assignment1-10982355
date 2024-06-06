@@ -1,0 +1,15 @@
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/Class Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/Class Constructors.AssemblyInfoInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/Class Constructors.AssemblyInfo.cs
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/Class Constructors.csproj.CoreCompileInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/Class Constructors.sourcelink.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/bin/Debug/net8.0/Class Constructors
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/bin/Debug/net8.0/Class Constructors.deps.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/bin/Debug/net8.0/Class Constructors.runtimeconfig.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/bin/Debug/net8.0/Class Constructors.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/bin/Debug/net8.0/Class Constructors.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/Class Constructors.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/refint/Class Constructors.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/Class Constructors.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/Class Constructors.genruntimeconfig.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/OOP/Classes/Class Constructors/obj/Debug/net8.0/ref/Class Constructors.dll
