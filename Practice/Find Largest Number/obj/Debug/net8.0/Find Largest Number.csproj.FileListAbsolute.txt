@@ -1,0 +1,15 @@
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/bin/Debug/net8.0/Find Largest Number
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/bin/Debug/net8.0/Find Largest Number.deps.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/bin/Debug/net8.0/Find Largest Number.runtimeconfig.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/bin/Debug/net8.0/Find Largest Number.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/bin/Debug/net8.0/Find Largest Number.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/Find Largest Number.GeneratedMSBuildEditorConfig.editorconfig
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/Find Largest Number.AssemblyInfoInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/Find Largest Number.AssemblyInfo.cs
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/Find Largest Number.csproj.CoreCompileInputs.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/Find Largest Number.sourcelink.json
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/Find Largest Number.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/refint/Find Largest Number.dll
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/Find Largest Number.pdb
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/Find Largest Number.genruntimeconfig.cache
+/home/percy/UG/Level 300/Second Semester/DCIT 318/Assignments/dcit318-assignment1-10982355/Practice/Find Largest Number/obj/Debug/net8.0/ref/Find Largest Number.dll
